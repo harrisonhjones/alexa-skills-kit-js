@@ -1,5 +1,9 @@
 # Node.js Alexa Skills Kit Samples
 
+## SDK Update Notice ##
+
+The lastest NodeJS Alexa SDK can be found [here](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs). Not all of these examples use this SDK but should be updated at some point in the future to use it. Please refer to the lastest SDK for new development.
+
 ## Alexa Skills Kit Documentation
 The documentation for the Alexa Skills Kit is available on the [Amazon Apps and Services Developer Portal](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/).
 
